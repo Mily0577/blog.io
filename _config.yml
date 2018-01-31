@@ -1,15 +1,15 @@
 # Site settings
-title: 博客名字 # 你的博客名字，可以定义修订
+title: Mily's Home # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "Thank GOD, finally creat this blog! For what I'm gonna do is to unload some of my learning notes"  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "http://mily.club"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
+  name: "Mily.Zhang" # 填写作者信息：名字
+  email: mily0577@foxmail.com # 填写作者信息：邮箱
   bio: "你的博客描述" # 填写作者信息：博客描述
 
 # Data
